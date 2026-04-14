@@ -43,4 +43,4 @@ User successfully logged in after password reset and account unlock.
 ![Successful Login](Successful-Login.png)
 ![Resolution Screenshot](Ticket-Resolution.png)
 
-## More projects coming soon...
+
