@@ -30,11 +30,11 @@ User was unable to log into their workstation due to account lockout.
 2. Investigated login issue  
 3. Identified account lockout  
 4. Reset password and unlocked account  
-![Ticket](ServiceNow Ticket Creation.PNG)
+
 
 **Resolution:**  
 User successfully logged in after password reset and account unlock.
-! [Resolution](Ticket Resolution.PNG)
+
 ---
 
 ## More projects coming soon...
