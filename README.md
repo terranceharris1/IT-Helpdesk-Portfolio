@@ -36,5 +36,6 @@ User was unable to log into their workstation due to account lockout.
 User successfully logged in after password reset and account unlock.
 
 ---
-
+![Ticket Screenshot](Password-Reset.PNG)
+![Resolution Screenshot](Ticket-Resolution.png)
 ## More projects coming soon...
