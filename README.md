@@ -1,4 +1,4 @@
-# IT Help Desk Portfolio – Terrance Juno
+# IT Help Desk Portfolio – Terrance Harris
 
 ## Overview
 This portfolio demonstrates hands-on experience with IT support tools and concepts including ServiceNow, Active Directory, and troubleshooting real-world IT issues.
@@ -30,10 +30,11 @@ User was unable to log into their workstation due to account lockout.
 2. Investigated login issue  
 3. Identified account lockout  
 4. Reset password and unlocked account  
+![Ticket](ServiceNow Ticket Creation.PNG)
 
 **Resolution:**  
 User successfully logged in after password reset and account unlock.
-
+! [Resolution](Ticket Resolution.PNG)
 ---
 
 ## More projects coming soon...
