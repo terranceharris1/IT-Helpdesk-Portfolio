@@ -36,6 +36,11 @@ User was unable to log into their workstation due to account lockout.
 User successfully logged in after password reset and account unlock.
 
 ---
+![Ticket Creation](ServiceNow-Ticket-Creation.png)
+![Incident Notes](Incident-Work-Notes.png)
+![Account Unlock](Account-Unlock.png)
 ![Ticket Screenshot](Password-Reset.PNG)
+![Successful Login](Sucessful-Login.png)
 ![Resolution Screenshot](Ticket-Resolution.png)
+
 ## More projects coming soon...
