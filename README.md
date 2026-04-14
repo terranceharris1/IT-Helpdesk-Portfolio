@@ -40,7 +40,7 @@ User successfully logged in after password reset and account unlock.
 ![Incident Notes](Incident-Work-Notes.png)
 ![Account Unlock](Account-Unlock.png)
 ![Ticket Screenshot](Password-Reset.PNG)
-![Successful Login](Sucessful-Login.png)
+![Successful Login](Successful-Login.png)
 ![Resolution Screenshot](Ticket-Resolution.png)
 
 ## More projects coming soon...
